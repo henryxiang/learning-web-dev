@@ -1,6 +1,5 @@
 # Web Development Online Learing Resources
 
----
 
 ## Web Development Fundamentals
 
@@ -12,13 +11,11 @@
 - [HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE)
 - [CSS Crash Course](https://www.youtube.com/watch?v=yfoY53QXEnI)
 
----
 
 ## JavaScript Frameworks and Libraries
 
 - [React.js Crash Course](https://www.youtube.com/watch?v=sBws8MSXN7A)
 
----
 
 ## Credits
 
