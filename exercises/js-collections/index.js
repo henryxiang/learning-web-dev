@@ -1,6 +1,12 @@
 const { getPersons } = require('./data/persons');
 
-// Given 1000 persons
+/* Given 1000 persons. Each has the following attributes:
+    - id
+    - firstName
+    - lastName
+    - age
+    - salary
+*/
 const persons = getPersons(1000);
 
 // 1. Count the number of perons whose age is between 20 to 30 inclusive
