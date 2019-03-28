@@ -12,6 +12,7 @@
 
 ## Advanced Topics
 
+- [CSS Positioning](https://www.youtube.com/watch?v=wmAP2xvNs08)
 - [CSS Grid](https://www.youtube.com/watch?v=jV8B24rSN5o)
 - [CSS Flexbox](https://www.youtube.com/watch?v=JJSoEo8JSnc)
 - [CSS Animation and Transitions](https://www.youtube.com/watch?v=zHUpx90NerM)
@@ -23,3 +24,4 @@
 ## Credits
 
 - Traversy Media YouTube Channel
+- Academind YouTube Channel
