@@ -12,7 +12,9 @@
 
 ## Advanced Topics
 
--[CSS Animation and Transitions Crash Course](https://www.youtube.com/watch?v=zHUpx90NerM)
+- [CSS Grid](https://www.youtube.com/watch?v=jV8B24rSN5o)
+- [CSS Flexbox](https://www.youtube.com/watch?v=JJSoEo8JSnc)
+- [CSS Animation and Transitions](https://www.youtube.com/watch?v=zHUpx90NerM)
 
 ## JavaScript Frameworks and Libraries
 
