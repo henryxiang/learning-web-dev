@@ -12,7 +12,7 @@
 
 ## Advanced Topics
 
--[CSS Animation Crash Course](https://www.youtube.com/watch?v=zHUpx90NerM)
+-[CSS Animation and Transitions Crash Course](https://www.youtube.com/watch?v=zHUpx90NerM)
 
 ## JavaScript Frameworks and Libraries
 
